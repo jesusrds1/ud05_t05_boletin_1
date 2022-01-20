@@ -10,10 +10,10 @@
 <?php
     $x = '144';
     $y = '999';
-    
+
     $resultado = $x + $y;
     echo "Valor x = $x ";
-    echo "Valor y = $y ";
+    echo "<br/> Valor y = $y ";
     echo "<br/> Suma de X e Y= ($x + $y) = $resultado ";
     $resultado = $x - $y;
     echo "<br/> Resta de X e Y= ($x - $y) = $resultado ";
