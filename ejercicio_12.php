@@ -15,7 +15,7 @@ for($linea=9;$linea>=1;$linea--){
                 echo "*";
             }else{
                 echo "&nbsp";
-
+ 
             }
             
         };
