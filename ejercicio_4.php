@@ -35,7 +35,7 @@
                 echo "<td>.$asig.</td>";
             }
         
-        }
+        } 
         echo "</tr>";
 
     }
