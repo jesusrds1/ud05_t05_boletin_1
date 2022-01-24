@@ -16,7 +16,7 @@
 
   echo "$pesetas pesetas son $valor euros "
     
-
+ 
     ?>
 
 </body>
